@@ -156,3 +156,4 @@ SHRP_REC_TYPE := Normal
 SHRP_INTERNAL := /sdcard
 SHRP_EXTERNAL := /external_sd
 SHRP_OTG := /usb_otg
+SHRP_DARK := true
